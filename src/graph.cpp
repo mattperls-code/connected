@@ -130,7 +130,7 @@ std::string Graph::toDOT() const
 {
     std::string output;
     
-    output += "graph FiniteAutomata {\n";
+    output += "graph Graph {\n";
 
     auto undoubled = this->adjacencyMatrix;
 

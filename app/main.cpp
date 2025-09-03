@@ -68,7 +68,7 @@ bool poll(Graph& graph)
 
 int main()
 {
-    std::string graphName = "celebrity";
+    std::string graphName = "camp";
 
     Graph graph = Graph::fromFile("./app/examples/" + graphName + ".graph");
     graph.exportGraph("./results/" + graphName, "graph");

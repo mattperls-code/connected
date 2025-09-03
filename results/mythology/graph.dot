@@ -1,4 +1,4 @@
-graph FiniteAutomata {
+graph Graph {
 	"Calypso" -- "Odysseus" [];
 	"Ixion" -- "Hera" [];
 	"Orion" -- "Artemis" [];

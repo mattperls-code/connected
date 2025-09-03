@@ -1,4 +1,4 @@
-graph FiniteAutomata {
+graph Graph {
 	"Kendrick Lamar" -- "A$AP Rocky" [];
 	"Kendrick Lamar" -- "Big Sean" [];
 	"Kendrick Lamar" -- "Future" [];

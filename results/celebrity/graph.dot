@@ -1,4 +1,4 @@
-graph FiniteAutomata {
+graph Graph {
 	"Angelina Jolie" -- "Jonny Lee Miller" [];
 	"Angelina Jolie" -- "Billy Bob Thornton" [];
 	"Angelina Jolie" -- "Brad Pitt" [];
